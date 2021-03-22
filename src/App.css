@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.itemsInCart {
+  margin-right: 10px;
+  background-color: gray;
+  width: 62px;
+  height: 31px;
+  border-radius: 4px;
+}
